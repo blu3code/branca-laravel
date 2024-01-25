@@ -1,0 +1,19 @@
+{
+  "name": "blu3code/branca-laravel",
+  "description": "Branca adapter for Laravel",
+  "keywords": ["php", "laravel", "branca"],
+  "homepage": "https://github.com/blu3code/branca-laravel",
+  "license": "MIT",
+  "type": "library",
+  "version": "1.0",
+  "require": {
+    "php": "^8.3",
+    "tuupola/branca": "^2.3",
+    "illuminate/support": "^10"
+  },
+  "autoload": {
+    "psr-4": {
+      "Blu3\\Branca\\": "src/"
+    }
+  }
+}
