@@ -5,7 +5,7 @@
   "homepage": "https://github.com/blu3code/branca-laravel",
   "license": "MIT",
   "type": "library",
-  "version": "1.0",
+  "version": "1.1",
   "require": {
     "php": "^8.3",
     "tuupola/branca": "^2.3",
